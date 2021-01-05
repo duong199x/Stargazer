@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SceneManager : MonoBehaviour
+public class PeopleGenerator : MonoBehaviour
 {
     [SerializeField] private Vector2 randomPosCenter = new Vector2();
     [SerializeField] private Vector2 randomSize = new Vector2();
